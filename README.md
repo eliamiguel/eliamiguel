@@ -26,7 +26,7 @@
 
 Passionate about Technology, Education and changing people's lives through programming.
 
-## Projetos: 
+## Projects: 
 - [Projeto - Clone_Pixbay ](https://clone-pixabay-api.vercel.app/)<br/>
 
 
