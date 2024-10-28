@@ -28,8 +28,8 @@ Passionate about Technology, Education and changing people's lives through progr
 
 ## Projects: 
 - [Projeto - Clone_Pixbay ](https://clone-pixabay-api.vercel.app/)<br/>
-- [Projeto - Emy-By ]([https://clone-pixabay-api.vercel.app/](https://emy-by.vercel.app/)<br/>
-- [Projeto - Clone_Disney ]([https://clone-pixabay-api.vercel.app/](https://clone-disneyplus-gou9.vercel.app/)<br/>
+- [Projeto - Emy-By ](https://clone-pixabay-api.vercel.app/](https://emy-by.vercel.app/)<br/>
+- [Projeto - Clone_Disney ](https://clone-pixabay-api.vercel.app/](https://clone-disneyplus-gou9.vercel.app/)<br/>
 
 
 
