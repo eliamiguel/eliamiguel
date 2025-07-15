@@ -27,7 +27,7 @@
 Passionate about Technology, Education and changing people's lives through programming.
 
 ## Projects: 
-- [Projeto - CRM Academia ]([https://clone-pixabay-api.vercel.app/](https://v0-academy-and-trainer-crm.vercel.app/login)<br/>
+- [Projeto - CRM Academia ](https://v0-academy-and-trainer-crm.vercel.app/login)<br/>
 - [Projeto - Clone_Pixbay ](https://clone-pixabay-api.vercel.app/)<br/>
 - [Projeto - Emy-By ](https://emy-by.vercel.app/)<br/>
 - [Projeto - Clone_Disney ](https://clone-disneyplus-gou9.vercel.app/)<br/>
